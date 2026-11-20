@@ -11,3 +11,4 @@ Sekarang saya sedang mendalami otomasi, testing, dan web sederhana.
 **Fokus sekarang**
 
 - Menyelesaikan task sederhana dan otomatisasi hal-hal pada pekerjaan rutin.
+- Belajar apapun tentang AI.
